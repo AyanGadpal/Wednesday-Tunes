@@ -12,3 +12,5 @@ Sample Android project demonstrating the implementation of iTunes search API
 - Okhttp3 Logging Interceptor - An OkHttp interceptor which logs HTTP request and response data (used with Retrofit).
 - Moshi- To convert Java objects to JSON and back (used with Retrofit).
 - Timber - Logger with a small, extensible API providing utility on top of Android's normal Log class.
+
+#[Download APK](https://github.com/AyanGadpal/WednusdayTunes/releases/download/1.0/WednesdayTunes.apk)
