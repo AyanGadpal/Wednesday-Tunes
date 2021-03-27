@@ -1,4 +1,4 @@
-# Wednusday Tunes
+# Wednesday Tunes
 Sample Android project demonstrating the implementation of iTunes search API 
 
 # Dependencies
